@@ -1,0 +1,6 @@
+streamlit
+numpy
+scipy
+pydub
+soundfile
+groq
